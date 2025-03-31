@@ -1,6 +1,5 @@
 # MetaTriHead
-MetaTriHead
-
+MemTriHead
 
 
 https://github.com/user-attachments/assets/a8f0fef0-3839-4282-a4a8-91bedf1dc873
